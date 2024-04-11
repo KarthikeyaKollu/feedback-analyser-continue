@@ -1,8 +1,6 @@
-# React + Vite
+# feedback-analyser-continue
+This repository contains only the frontend, and while it's a basic implementation, there's room for significant improvement.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+https://github.com/KarthikeyaKollu/feedback-analyser-continue/assets/108949445/bcb87358-d3ee-49aa-b8a8-ff91d13b5ef9
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
