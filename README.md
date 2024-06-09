@@ -63,9 +63,7 @@ Once both the backend and frontend servers are running, you can access the appli
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 https://github.com/KarthikeyaKollu/feedback-analyser-continue/assets/108949445/bcb87358-d3ee-49aa-b8a8-ff91d13b5ef9
